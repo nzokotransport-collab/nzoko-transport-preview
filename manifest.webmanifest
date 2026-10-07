@@ -1,0 +1,16 @@
+{
+  "name": "NZOKO TRANSPORT",
+  "short_name": "NZOKO",
+  "description": "Réservation et gestion des voyages interurbains NZOKO TRANSPORT.",
+  "lang": "fr-CG",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#042B32",
+  "background_color": "#042B32",
+  "icons": [
+    { "src": "./images/logo/logo-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" },
+    { "src": "./favicon.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

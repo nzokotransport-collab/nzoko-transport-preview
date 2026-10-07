@@ -1,0 +1,12 @@
+{
+  "routes": [
+    { "path": "/", "title": "Accueil" },
+    { "path": "/schedules", "title": "Lignes & Horaires" },
+    { "path": "/booking", "title": "Réservation" },
+    { "path": "/ticket-lookup", "title": "Billet & QR Code" },
+    { "path": "/entertainment", "title": "Divertissement & Avis" },
+    { "path": "/vip-fleet", "title": "Flotte VIP" },
+    { "path": "/agencies", "title": "Agences & Contact" },
+    { "path": "/staff-workspace", "title": "Espace Opérationnel Staff" }
+  ]
+}
