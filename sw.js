@@ -1,4 +1,4 @@
-const CACHE_NAME = 'nzoko-shell-v6';
+const CACHE_NAME = 'nzoko-shell-v7';
 const APP_SHELL = [
   '/',
   '/manifest.webmanifest',
